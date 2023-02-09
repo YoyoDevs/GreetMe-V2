@@ -1,0 +1,5 @@
+me\iiyoyo\greetme\commands.class
+me\iiyoyo\greetme\hexsupport.class
+me\iiyoyo\greetme\eventshandler.class
+me\iiyoyo\greetme\TabCompleter.class
+me\iiyoyo\greetme\GreetMe.class
